@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522927869267",
+    "firebase_url": "https://reglog-cade3.firebaseio.com",
+    "project_id": "reglog-cade3",
+    "storage_bucket": "reglog-cade3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522927869267:android:eadb0b12cde737c7",
+        "android_client_info": {
+          "package_name": "pawar.umesh.reg_log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522927869267-27pv7a7i0fra6a0l2uu40ov0du5vqish.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pawar.umesh.reg_log",
+            "certificate_hash": "45ed8c475b42485390767a714b11b2e495dfa347"
+          }
+        },
+        {
+          "client_id": "522927869267-dkqko4uukhbdqkv1ot56avtcj70u1fs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHsTielgSsD8TOKjauPrWdv5-YtqethCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522927869267-dkqko4uukhbdqkv1ot56avtcj70u1fs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
